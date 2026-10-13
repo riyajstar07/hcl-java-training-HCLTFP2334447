@@ -1,6 +1,6 @@
-# Library Management System (Assessment 2)
+# Assessment 2
 
-**Name:** <your name> | **Roll No:** <your roll no> | **Batch:** <your batch>
+Name:Riya Jaiswal| Roll No:2300321540151 | Branch: CSE-DS
 
 ## How to compile and run
 From inside the `Assignment` folder:
